@@ -1,0 +1,46 @@
+li {
+    list-style: none;
+    text-align: center;
+}
+.form-group {
+    margin-bottom: 0%;
+}
+
+.btn-danger {
+    background-color: brown;
+    border: 0px;
+}
+.btn-notas {
+    background-color: #1c2938;
+    width:15vw;
+}
+
+.btn-sections {
+    width:49%;
+    margin-top:1vh;
+    background-color: #1c2938;
+}
+
+
+/* LO DE ABAJO ES PARA EL MODO NOCHE */
+.form-control {
+    background-color: #1c2938;
+    color: beige;   
+}
+
+body {
+    background-color: #10171e;
+    color: beige;
+}
+
+#nav {
+    background-color: #1c2938;
+}
+
+#tituloNav {
+    color: beige;
+}
+
+hr {
+    background-color: #1c2938;
+}
